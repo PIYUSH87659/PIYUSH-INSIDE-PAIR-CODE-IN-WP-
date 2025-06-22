@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
         <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Piyush inside🩶</title>
+          <title>Piyush inside</title>
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
           <style>
             body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: black; font-family: Arial, sans-serif; }
@@ -40,7 +40,7 @@ app.get('/', (req, res) => {
         <body>
           <div class="container">
             <div class="box">
-              <h3 class="centered-text">PIYUSH INSIDE🩶 PAIRING CODE</h3>
+              <h3 class="centered-text">PIYUSH INSIDE PAIRING CODE</h3>
               <h6>Enter Your Number with Country Code.</h6>
               <div class="input-container">
                 <input placeholder="8542863xxx" type="number" id="number">
